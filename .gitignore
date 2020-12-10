@@ -1,3 +1,6 @@
 .vscode
 ignorethisfile
 file.txt
+
+# Auto generated files
+auto-gen-files/*.txt
